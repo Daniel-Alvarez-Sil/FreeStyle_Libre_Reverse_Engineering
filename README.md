@@ -29,11 +29,11 @@ Lastly, the Hunter Cat NFC is Arduino compatible. Thus, we will be using it to c
 ## Documentation
 ### Glucose Readings
 As of now, the reading of glucose information from the sensor (without credentials) is available within the **Glucose Readings** folder. There, you can find more detailed documentation regarding this functionality. 
-   [**Glucose Readings Documentation**](https://github.com/Daniel-Alvarez-Sil/FreeStyle_Libre_Reverse_Engineering/blob/main/Glucose%20Readings/README.md)
+  - [**Glucose Readings Documentation**](https://github.com/Daniel-Alvarez-Sil/FreeStyle_Libre_Reverse_Engineering/blob/main/Glucose%20Readings/README.md)
 
 ### Sensor Rebirth
 I am currently working on the rebirth of a FreeStyle Libre Sensor. This section will be available soon, if God wills. 
-  [*Future Documentation of Sensor Revival*](https://github.com/Daniel-Alvarez-Sil/FreeStyle_Libre_Reverse_Engineering/blob/main/Sensor%20Rebirth/README.md)
+  - [*Future Documentation of Sensor Revival*](https://github.com/Daniel-Alvarez-Sil/FreeStyle_Libre_Reverse_Engineering/blob/main/Sensor%20Rebirth/README.md)
 
 
 
