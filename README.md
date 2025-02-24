@@ -21,7 +21,7 @@ The general goal of this project is to expose the vulnerabilities present in the
 - PN7150:
   - [**Repository by Electronic Cats**](https://github.com/ElectronicCats/ElectronicCats-PN7150)
 
-Lastly, the Hunter Cat NFC is Arduino compatible. Thus, we will be using it to code the functionality to read the FreeStyle Libre. Next, we will use Python (a Jupyter Notebook) to make sense of the information read from the Hunter Cat. In general, the tools used in this project are employed as follows. 
+Lastly, the Hunter Cat NFC is Arduino compatible. Thus, we will be using it to code the functionality to read the FreeStyle Libre. Next, we will use Python (a Jupyter Notebook) to make sense of the information read by the Hunter Cat. In general, the tools used in this project are employed as follows. 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5c7abeeb-e387-4c23-817d-f41db368419e" width="550" style="vertical-align: middle;" />
 </p>
@@ -33,6 +33,7 @@ As of now, the reading of glucose information from the sensor (without credentia
 
 ### Sensor Rebirth
 I am currently working on the rebirth of a FreeStyle Libre Sensor. This section will be available soon, if God wills. 
+  [*Future Documentation of Sensor Revival*](https://github.com/Daniel-Alvarez-Sil/FreeStyle_Libre_Reverse_Engineering/blob/main/Sensor%20Rebirth/README.md)
 
 
 
