@@ -16,10 +16,10 @@ Special thanks to the following repositories. Without their contribution this wo
 
 The general goal of this project is to expose the vulnerabilities present in the FreeStyle Libre device, specially those associated with NFC technology. For this project, we will be using the Hunter Cat NFC device built by Electronic Cats. Said device employs A PN7150 NFC controller, but virtually any NFC controller device that supports ISO15693 read/write operations can be used. 
 - Hunter Cat NFC:
-  - Buy: https://electroniccats.com/store/hunter-cat-nfc/
-  - Repository: https://github.com/ElectronicCats/HunterCatNFC
+  - [**Buy**](https://electroniccats.com/store/hunter-cat-nfc/)
+  - [**Official repository of Hunter Cat NFC**](https://github.com/ElectronicCats/HunterCatNFC)
 - PN7150:
-  - Repository by Electronic Cats: https://github.com/ElectronicCats/ElectronicCats-PN7150
+  - [**Repository by Electronic Cats**](https://github.com/ElectronicCats/ElectronicCats-PN7150)
 
 Lastly, the Hunter Cat NFC is Arduino compatible. Thus, we will be using it to code the functionality to read the FreeStyle Libre. Next, we will use Python (a Jupyter Notebook) to make sense of the information read from the Hunter Cat. In general, the tools used in this project are employed as follows. 
 <p align="center">
