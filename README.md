@@ -23,7 +23,7 @@ The general goal of this project is to expose the vulnerabilities present in the
 
 Lastly, the Hunter Cat NFC is Arduino compatible. Thus, we will be using it to code the functionality to read the FreeStyle Libre. Next, we will use Python (a Jupyter Notebook) to make sense of the information read by the Hunter Cat. In general, the tools used in this project are employed as follows. 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/5c7abeeb-e387-4c23-817d-f41db368419e" width="550" style="vertical-align: middle;" />
+    <img src="https://github.com/user-attachments/assets/d132cc1c-557c-4d57-bb0b-2b025cf37dfd" width="550" style="vertical-align: middle;" />
 </p>
 
 ## Documentation
